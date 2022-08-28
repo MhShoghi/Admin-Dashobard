@@ -16,7 +16,7 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <div className="top">
-        <span className="logo">lamaadmin</span>
+        <span className="logo">IMS Service</span>
       </div>
       <hr />
       <div className="center">
