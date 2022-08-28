@@ -9,7 +9,7 @@ import Table from "../../components/table/Table";
 const Home = () => {
   return (
     <div className="home">
-      <Sidebar />
+      <Sidebar className="sidebar" />
 
       <div className="homeContainer">
         <Navbar />
